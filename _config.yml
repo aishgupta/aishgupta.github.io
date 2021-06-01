@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &_aish_gupta_
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aishwarya Gupta"
   avatar           : "profile.png"
-  bio              : "PhD Student at the University of Utah"
-  location         : "Salt Lake City"
+  bio              : "PhD Student at IIT Kanpur"
+  location         : "Kanpur, India"
   googlescholar    : "https://scholar.google.com/citations?user=T-NVUmMAAAAJ&hl=en"
   email            : "aish322@gmail.com"
   github           : "aishgupta"
